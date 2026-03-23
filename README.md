@@ -6,13 +6,13 @@ Geralmente, ao desofuscar um mod usando o DeMikeroObfuscator, o `config.cpp` per
 
 ## 🛠️ Conteúdo da Ferramenta
 
-*   **`CorrigirDeobfuscator.exe`**: Basta usá-lo como um atalho "Drag-and-Drop" para processar os arquivos sem complicação.
+*   **`DeOb-A3.exe`**: Basta usá-lo como um atalho "Drag-and-Drop" para processar os arquivos sem complicação.
 
 ## 🚀 Como usar em seus projetos
 
 Depois de usar o seu `DeMikeroObfuscator` em um arquivo PBO e ele gerar o `config.cpp` bugado mais aqueles arquivos `.p3d/.paa` genéricos, siga os passos a seguir:
 
-1. **Copie a ferramenta:** Copie o arquivo `CorrigirDeobfuscator.exe` para a **mesma pasta** onde o processo de desofuscação ocorreu e os arquivos estão.
-2. **Arraste e Solte (Drag & Drop):** Clique, segure e **ARRASTE** o seu arquivo PBO **ORIGINAL** (ex: `MeuMod.pbo`), **soltando-o exatamente em cima do ícone** do arquivo `CorrigirDeobfuscator.exe`.
+1. **Copie a ferramenta:** Copie o arquivo `DeOb-A3.exe` para a **mesma pasta** onde o processo de desofuscação ocorreu e os arquivos estão.
+2. **Arraste e Solte (Drag & Drop):** Clique, segure e **ARRASTE** o seu arquivo PBO **ORIGINAL** (ex: `MeuMod.pbo`), **soltando-o exatamente em cima do ícone** do arquivo `DeOb-A3.exe`.
 
 > **Pronto!** A ferramenta vai abrir uma tela de terminal verde, ela localizará todos os arquivos desofuscados de forma automática, vai checar o PBO original, consertar as peças com nomes genéricos e injetar/processar a substituição de 100% do seu `config.cpp`!
